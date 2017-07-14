@@ -1,0 +1,41 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Inventory</string>
+    <string name="sale_button_text">Sale</string>
+    <string name="empty_view_text">Click the add button to add an inventory item.</string>
+    <string name="editor_add_image_button">Add Image</string>
+    <string name="editor_change_image_button">Change Image</string>
+    <string name="editor_quantity">Quantity</string>
+    <string name="item_name_edit_text_hint">Item Name</string>
+    <string name="order_from_supplier_header_text">Order More From Supplier</string>
+    <string name="order_more_button_text">Order More</string>
+
+    <string name="toast_provider_no_name">Please enter a name for the Inventory Item.</string>
+    <string name="toast_provider_illegal_quantity">Please enter a valid quantity.</string>
+    <string name="toast_error_adding_item">Error adding inventory item.</string>
+    <string name="item_price_edit_text_hint">Price</string>
+    <string name="dollar_sign">$</string>
+    <string name="menu_inventory_delete_all_inventory">Delete All Inventory</string>
+    <string name="menu_editor_save">Save</string>
+    <string name="menu_editor_delete">Delete</string>
+    <string name="toast_rows_deleted"><xliff:g id = "rowsDeleted" example = "2">%d</xliff:g> inventory item(s) deleted</string>
+    <string name="title_add_inventory_item">Add an Inventory Item</string>
+    <string name="title_edit_inventory_item">Edit Inventory Item</string>
+    <string name="toast_problem_loading_image">Problem loading image.</string>
+    <string name="toast_error_closing_fos">Error closing FOS</string>
+    <string name="toast_file_not_found">File Not Found</string>
+    <string name="toast_item_added">Item Added</string>
+    <string name="toast_error_updating_inventory">Error updating inventory item</string>
+    <string name="toast_inventory_updated">Inventory item updated</string>
+    <string name="alert_dialog_message_delete_item">Delete Inventory Item?</string>
+    <string name="alert_dialog_button_delete">Delete</string>
+    <string name="alert_dialog_button_cancel">Cancel</string>
+    <string name="toast_error_deleting_item">Error deleting inventory item</string>
+    <string name="toast_item_deleted">Inventory item deleted</string>
+    <string name="alert_dialog_message_discard_changes">Quit Editing and Discard Changes?</string>
+    <string name="alert_dialog_button_discard">Discard</string>
+    <string name="alert_dialog_button_keep_editing">Keep Editing</string>
+    <string name="supplier_email">Supplier Email</string>
+    <string name="toast_no_price">Please enter a price</string>
+    <string name="toast_no_image">No image selected. Please select one.</string>
+
+</resources>

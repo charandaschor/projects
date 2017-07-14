@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- default margin values for use at multiple places -->
+    <dimen name="default_high_margin">16dp</dimen>
+    <dimen name="default_low_margin">8dp</dimen>
+
+    <!-- height of a list item in the ListView -->
+    <dimen name="list_item_height">88dp</dimen>
+
+    <!-- text size for different texts in the app -->
+    <dimen name="inventory_item_name_text_size">32sp</dimen>
+    <dimen name="inventory_item_summary_text_size">24sp</dimen>
+    <dimen name="editor_quantity_text_size">20sp</dimen>
+    <dimen name="order_from_supplier_header_text_size">24sp</dimen>
+
+    <!-- dimensions of the ImageView in activity_editor.xml -->
+    <dimen name="editor_image_height">100dp</dimen>
+    <dimen name="editor_image_width">100dp</dimen>
+
+    <!-- width and height of the quantity picker buttons in the activity_editor.xml -->
+    <dimen name="quantity_button_dimension">44dp</dimen>
+
+</resources>
